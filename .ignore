@@ -1,0 +1,4 @@
+*.map
+*.js
+test.txt
+node_modules
